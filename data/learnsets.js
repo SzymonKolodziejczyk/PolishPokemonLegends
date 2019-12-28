@@ -3425,6 +3425,7 @@ let BattleLearnsets = {
 	}},
 	sandslash: {learnset: {
 		aerialace: ["7M", "6M", "5M", "4M", "3M"],
+		amnesia: ["8M"],
 		attract: ["7M", "7V", "6M", "5M", "4M", "3M"],
 		bide: ["7V"],
 		bodyslam: ["7V", "3T"],

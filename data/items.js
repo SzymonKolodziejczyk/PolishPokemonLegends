@@ -5398,6 +5398,22 @@ let BattleItems = {
 		isNonstandard: "Past",
 		desc: "If held by a Salamence, this item allows it to Mega Evolve in battle.",
 	},
+	"sandslasite": {
+		id: "sandslasite",
+		name: "Sandslasite",
+		spritenum: 575,
+		megaStone: "Sandslash-Mega",
+		megaEvolves: "Sandslash",
+		itemUser: ["Sandslash"],
+		onTakeItem(item, source) {
+			if (item.megaEvolves === source.baseTemplate.baseSpecies) return false;
+			return true;
+		},
+		num: 674,
+		gen: 6,
+		isNonstandard: "Past",
+		desc: "If held by a Sandslash, this item allows it to Mega Evolve in battle.",
+	},
 	"sceptilite": {
 		id: "sceptilite",
 		name: "Sceptilite",
