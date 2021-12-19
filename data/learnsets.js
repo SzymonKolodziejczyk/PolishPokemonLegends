@@ -3505,6 +3505,7 @@ let BattleLearnsets = {
 		swordsdance: ["7M", "7L43", "7V", "6M", "6L38", "5M", "5L38", "4M", "3T"],
 		takedown: ["7V"],
 		thief: ["7M", "7V", "6M", "5M", "4M", "3M"],
+		thousandarrows: ["7T", "7S7", "7S6"],
 		toxic: ["7M", "7V", "6M", "5M", "4M", "3M"],
 		xscissor: ["7M", "6M", "5M", "4M"],
 	}},

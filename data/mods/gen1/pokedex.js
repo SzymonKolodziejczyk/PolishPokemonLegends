@@ -392,7 +392,7 @@ exports.BattlePokedex = {
 		species: "Sandslash",
 		types: ["Ground"],
 		gender: "N",
-		baseStats: {hp: 75, atk: 100, def: 110, spa: 55, spd: 55, spe: 65},
+		baseStats: {hp: 150, atk: 200, def: 220, spa: 110, spd: 110, spe: 130},
 		abilities: {},
 		heightm: 1,
 		weightkg: 29.5,
