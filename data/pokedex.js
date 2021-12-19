@@ -3668,7 +3668,7 @@ let BattlePokedex = {
 		num: 200,
 		species: "Misdreavus",
 		types: ["Ghost"],
-		baseStats: {hp: 250, atk: 60, def: 160, spa: 185, spd: 185, spe: 85},
+		baseStats: {hp: 250, atk: 160, def: 160, spa: 185, spd: 185, spe: 185},
 		abilities: {0: "Levitate"},
 		heightm: 0.7,
 		weightkg: 1,
