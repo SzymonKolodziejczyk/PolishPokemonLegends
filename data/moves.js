@@ -696,7 +696,7 @@ let BattleMovedex = {
 	"astonish": {
 		num: 310,
 		accuracy: 100,
-		basePower: 30,
+		basePower: 930,
 		category: "Physical",
 		desc: "Has a 30% chance to flinch the target.",
 		shortDesc: "30% chance to flinch the target.",
