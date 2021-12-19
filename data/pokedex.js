@@ -768,7 +768,7 @@ let BattlePokedex = {
 		species: "Sandslash",
 		types: ["Ground"],
 		baseStats: {hp: 85, atk: 200, def: 110, spa: 45, spd: 75, spe: 165},
-		abilities: {0: "Tough Claw", H: "Sand Rush"},
+		abilities: {0: "Tough Claws", H: "Sand Rush"},
 		heightm: 1,
 		weightkg: 29.5,
 		color: "Yellow",
